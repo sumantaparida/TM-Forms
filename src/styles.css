@@ -1,0 +1,7 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Error {
+  border: solid 1px red;
+}
